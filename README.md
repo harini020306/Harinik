@@ -1,5 +1,5 @@
 <div align="center">
-
+<h1 align="center">Hi there, I'm Harini K 👋</h1>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Harini+K+%F0%9F%91%8B;ECE+Student+%7C+AI%2FML+%26+Python+Developer;Building+Healthcare+AI+%26+IoT+Projects" alt="Typing banner" />
 
 **Final-year B.E. Electronics & Communication Engineering student**
