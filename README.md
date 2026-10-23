@@ -1,13 +1,25 @@
+
+<!-- ==================== HEADER ==================== -->
+
 <div align="center">
-<h1 align="center">Hi there , I'm Harini K 👋</h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Harini+K+%F0%9F%91%8B;ECE+Student+%7C+AI%2FML+%26+Python+Developer;Building+Healthcare+AI+%26+IoT+Projects" alt="Typing banner" />
 
-**Final-year B.E. Electronics & Communication Engineering student**
-Nehru Institute of Engineering and Technology · Class of 2027 · CGPA 9.3/10
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071952,50:088395,100:35A7FF&height=200&section=header&text=HARINI%20K&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20%7C%20Healthcare%20AI%20%7C%20Embedded%20Systems&descAlignY=60&descSize=16" width="100%" alt="Harini K - AI and Embedded Systems banner"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harini_K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harini-k-061878326)
-[![Email](https://img.shields.io/badge/Email-harini020306@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harini020306@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-harini020306-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harini020306)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=35A7FF&center=true&vCenter=true&width=650&height=55&lines=Final-Year+ECE+Student;Exploring+Artificial+Intelligence+%26+ML;Building+Healthcare+AI+Solutions;Learning+IoT+%26+Embedded+Systems" alt="Animated introduction"/>
+</a>
+
+<p>
+  <a href="https://github.com/harini020306">
+    <img src="https://img.shields.io/badge/GitHub-harini020306-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harini-k-061878326/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/Harini020306/">
+    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
 
 </div>
 
@@ -15,111 +27,133 @@ Nehru Institute of Engineering and Technology · Class of 2027 · CGPA 9.3/10
 
 ## 👩‍💻 About Me
 
-I'm an Electronics and Communication Engineering student who enjoys working where **software meets hardware**. My projects combine Python and machine learning with sensors and embedded boards, mostly in healthcare and predictive analytics.
-
-I'm looking for an **internship or entry-level opportunity** in AI/ML, Python development, IoT/embedded systems, or software development, where I can apply what I know and keep learning.
-
-**Interests:** AI/ML · Python Development · Healthcare AI · Predictive Analytics · IoT · Embedded Systems · Software Development
-
-🏆 **Third Prize Winner**, Project EXPO, VIHANSA 2026, Sri Ramakrishna Institute of Technology
+- 🎓 Final-year **Electronics and Communication Engineering (ECE)** student.
+- 🤖 Interested in **Artificial Intelligence, Machine Learning, and Healthcare AI**.
+- 🐍 Working with Python and machine learning libraries.
+- 🩺 Exploring AI-powered healthcare applications and predictive analytics.
+- 🔊 Building a speech enhancement application using pretrained AI models.
+- 🔌 Interested in IoT, Raspberry Pi, and embedded systems.
+- 🌱 Continuously learning, experimenting, and improving my problem-solving skills.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+### Programming Languages
 
-**Machine Learning & Data Analysis**
+<img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" alt="Python, Java and C icons"/>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square)
+### AI / ML and Development
 
-**App Development**
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,git,github,vscode&theme=dark" alt="AI and development technology icons"/>
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+</div>
 
-**Embedded Systems & IoT**
+**Tools and libraries I work with:**
 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+`NumPy` · `Pandas` · `Scikit-learn` · `Streamlit` · `Jupyter Notebook` · `Google Colab`
 
-**Tools**
+**Areas of interest:**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
-
-**Also familiar with:** Raspberry Pi Pico · Sensor integration · Embedded prototyping · Feature engineering · Classification & regression · Figma (basic) · Blender (basic)
+`Machine Learning` · `Predictive Analytics` · `Healthcare AI` · `IoT` · `Embedded Systems`
 
 ---
 
 ## 🚀 Featured Projects
 
-> Repository links marked `ADD_LINK` are placeholders. Replace them with your real repo URLs.
+### 🔊 AI/ML-Based Adaptive Noise Cancellation for Speech Enhancement
+A Streamlit application that uses a pretrained speech-enhancement model to reduce noise in audio recordings.
 
-| Project | What it does | Tech |
-|---|---|---|
-| 🦴 **AI-Based Early Osteoarthritis Detection**<br>_(Team Leader)_ | Healthcare AI/ML research project that analyses knee-joint sound signals (phonoarthrography) for early osteoarthritis detection. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square) ![RPi](https://img.shields.io/badge/-Raspberry_Pi_3B+-A22846?style=flat-square) ![MAX9814](https://img.shields.io/badge/-MAX9814-555?style=flat-square) ![MCP3008](https://img.shields.io/badge/-MCP3008_ADC-555?style=flat-square)<br> |
-| 🦶 **Diabetic Neuropathy / Foot Ulcer Detection (VPT)** | Embedded healthcare project using vibration-based sensing and wireless data logging to support preventive foot-care assessment. | ![Embedded](https://img.shields.io/badge/-Embedded_Systems-00878F?style=flat-square) ![Sensors](https://img.shields.io/badge/-Vibration_Sensing-555?style=flat-square) ![Wireless](https://img.shields.io/badge/-Wireless_Logging-555?style=flat-square)<br> |
-| 🏠 **House Price Prediction** | Regression model with data preprocessing and feature engineering, deployed as an interactive Streamlit app. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square) ![sklearn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square)<br>[Repo: ADD_LINK]((https://colab.research.google.com/drive/1d7SMRDzURP2TFzNDHE2WxWdUNsh3QJ75#scrollTo=9e9TbRY9GYDC)) |
-| 🏨 **Hotel Booking Cancellation Prediction** | Classification project that predicts booking cancellations from hotel booking data. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square) ![sklearn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square)<br>[Repo: ADD_LINK]((https://colab.research.google.com/drive/1umvhlF8TjE1QgsyQfmyySv1j7epevP0v)) |
-| 📷 **Smart Attendance System** | Raspberry Pi-based attendance automation using a camera and image processing. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square) ![RPi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square) ![Image Processing](https://img.shields.io/badge/-Image_Processing-555?style=flat-square)<br> |
-| 🎤 **AI Interview Coach** | Generates technical, coding, HR and aptitude questions with selectable difficulty levels, and gives feedback on answers. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square) ![Gemini](https://img.shields.io/badge/-Google_Gemini-4285F4?style=flat-square)<br> |
-| 🎬 **AI-Based OTT Content Screening System** | Streamlit application that explores AI-based image/content analysis using CLIP-related components. _Work in progress / prototype._ | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square) ![CLIP](https://img.shields.io/badge/-CLIP-555?style=flat-square)<br> |
+- Upload audio and listen to the original and enhanced versions.
+- Compare waveforms before and after processing.
+- Adjust enhancement strength and download the output.
+- **Tech:** Python, Streamlit, PyTorch, Torchaudio, DeepFilterNet.
+
+### 🦴 Early Osteoarthritis Detection Using Phonoarthrography
+A healthcare-oriented project exploring joint-sound analysis for early osteoarthritis detection.
+
+- Explores the use of audio signals and machine learning for healthcare.
+- Uses Raspberry Pi 3B+, MAX9814 microphone amplifier, and MCP3008 ADC.
+- **Tech:** Python, AI/ML, Raspberry Pi, signal acquisition.
+
+### 🏠 House Price Prediction Using Machine Learning
+A regression-based project to estimate house prices from property-related features.
+
+- Uses features such as area, bedrooms, bathrooms, and location-related information.
+- Includes a Streamlit interface for interacting with the prediction model.
+- **Tech:** Python, Pandas, NumPy, Scikit-learn, Streamlit.
+
+### 🏨 Hotel Booking Cancellation Prediction
+A machine learning project for predicting whether a hotel booking may be cancelled.
+
+- Uses booking information to train a classification model.
+- Explores data preprocessing, model training, and prediction.
+- **Tech:** Python, Pandas, Scikit-learn.
+
+### 🩺 AI Interview Coach
+An interactive application designed to help users practise technical, coding, HR, and aptitude interview questions.
+
+- Includes question practice across different difficulty levels.
+- **Tech:** Python, Streamlit, Google Gemini.
+
+> Project descriptions summarize the work and features developed. Add repository links below each project after confirming the corresponding public repository URL.
 
 ---
 
-## 🎓 Certifications & Learning
-
-| Provider | Course |
-|---|---|
-| 🏛️ SWAYAM-NPTEL | Introduction to IoT |
-| 🏛️ SWAYAM-NPTEL | Introduction to Industry 4.0 and Industrial IoT (**Elite**) |
-| 🎓 Coursera | AI for Everyone |
-| 💼 EduSkills | Python Full Stack Developer |
-| 📱 EduSkills | Android Developer |
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harini020306&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harini020306&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+<a href="https://github.com/harini020306">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harini020306&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub account statistics"/>
+</a>
 
-<img src="https://streak-stats.demolab.com/?user=harini020306&hide_border=true" alt="GitHub streak" />
+<a href="https://github.com/harini020306">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harini020306&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used public repository languages"/>
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=harini020306&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## 🎯 Currently
-
-- 🔭 Building more AI/ML and IoT projects
-- 📚 Practising data structures and problem solving
-- 🌱 Seeking an internship or entry-level role in AI/ML, Python, IoT/embedded or software development
-
----
-
-## 📫 Let's Connect
-
-I'm open to internships, entry-level roles and project collaboration.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harini-k-061878326)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harini020306@gmail.com)
+## 📈 Contribution Activity
 
 <div align="center">
 
-<sub>⭐ Thanks for visiting my profile!</sub>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harini020306&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
+## 🎯 Current Goals
+
+- Strengthen my Python and machine learning fundamentals.
+- Build practical AI/ML projects with clear documentation.
+- Explore the combination of AI, healthcare, and embedded systems.
+- Improve problem-solving and technical interview skills.
+- Learn to build and deploy useful applications.
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in learning, sharing ideas, and collaborating on meaningful technology projects.
+
+<div align="center">
+
+<a href="https://github.com/harini020306">GitHub</a> •
+<a href="https://www.linkedin.com/in/harini-k-061878326/">LinkedIn</a> •
+<a href="https://leetcode.com/u/Harini020306/">LeetCode</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:35A7FF,50:088395,100:071952&height=100&section=footer" width="100%" alt="Decorative blue footer"/>
 
 </div>
