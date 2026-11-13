@@ -53,21 +53,17 @@ A machine learning-based system that analyses knee-joint sounds for early osteoa
 
 `Raspberry Pi 3B+` `MAX9814` `MCP3008 ADC` `MicroSD` `Python` `AI/ML`
 
-🔗 [Repo: ADD_LINK](ADD_LINK)
 
 ### 🏠 House Price Prediction Using Machine Learning · 2026
 A regression model that predicts house prices from multiple property features, deployed as an interactive Streamlit web app.
 
 `Python` `Pandas` `NumPy` `Scikit-learn` `Streamlit`
 
-🔗 [Repo: ADD_LINK](ADD_LINK) · 🌐 [Live app: ADD_LINK](ADD_LINK)
 
 ### 🏨 Hotel Booking Cancellation Prediction · 2026
 A classification model that predicts hotel booking cancellations, deployed as an interactive Streamlit app.
 
 `Python` `Pandas` `NumPy` `Scikit-learn` `Streamlit`
-
-🔗 [Repo: ADD_LINK](ADD_LINK) · 🌐 [Live app: ADD_LINK](ADD_LINK)
 
 ---
 
