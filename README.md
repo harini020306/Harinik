@@ -100,19 +100,6 @@ Hands-on exposure to industrial assembly, electrical equipment manufacturing, qu
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harini020306&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harini020306&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com/?user=harini020306&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 I'm open to internships, entry-level roles and project collaboration.
